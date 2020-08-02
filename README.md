@@ -1,6 +1,12 @@
 # :speech_balloon: Healthee Chatbot Service :runner:
 <img src="https://user-images.githubusercontent.com/41438361/88480682-43ecf900-cf92-11ea-875a-79df7aa29d8b.png" width="50%">
 
+## :tada:KCC2020 Microsoft와 함께하는 Chatbot 경진대회 최고기획상 수상:tada:
+
+[KCC2020 Microsoft 챗봇 경진대회 수상자 링크](https://www.kiise.or.kr/academy/board/academyNewsView.fa)
+
+![캡처](https://user-images.githubusercontent.com/41438361/89125131-31853900-d517-11ea-8f48-5a9648b38e76.JPG)
+
 ## 목차
 * [Topic](#topic)
 * [시연 링크](#시연-링크)
